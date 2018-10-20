@@ -1,0 +1,26 @@
+server:
+  port: 8081
+  servlet:
+    context-path: /springbootdemo
+    path: /hello
+
+
+
+person:
+  lastName: hello@163.com
+#  age: 18
+#  boss: false
+  birth: 1990/09/15
+
+  map1: {k1: v1, k2: v2}
+  map2:
+    k3: v3
+    k4: v4
+  list1: [zhangsan, lisi]
+  list2:
+    - wangwu
+    - zhaoliu
+  dog1:
+    name: 小狗1
+    age: 12
+  dog2: {name: 小狗2, age: 13}
