@@ -1,0 +1,62 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.example.springbootyml.entity.Person",
+      "name": "person",
+      "type": "com.example.springbootyml.entity.Person"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.example.springbootyml.entity.Person",
+      "name": "person.age",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.example.springbootyml.entity.Person",
+      "name": "person.birth",
+      "type": "java.util.Date"
+    },
+    {
+      "sourceType": "com.example.springbootyml.entity.Person",
+      "name": "person.boss",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "com.example.springbootyml.entity.Person",
+      "name": "person.dog1",
+      "type": "com.example.springbootyml.entity.Dog"
+    },
+    {
+      "sourceType": "com.example.springbootyml.entity.Person",
+      "name": "person.dog2",
+      "type": "com.example.springbootyml.entity.Dog"
+    },
+    {
+      "sourceType": "com.example.springbootyml.entity.Person",
+      "name": "person.last-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.example.springbootyml.entity.Person",
+      "name": "person.list1",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "com.example.springbootyml.entity.Person",
+      "name": "person.list2",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "com.example.springbootyml.entity.Person",
+      "name": "person.map1",
+      "type": "java.util.Map<java.lang.String,java.lang.Object>"
+    },
+    {
+      "sourceType": "com.example.springbootyml.entity.Person",
+      "name": "person.map2",
+      "type": "java.util.Map<java.lang.String,java.lang.Object>"
+    }
+  ]
+}
